@@ -26,3 +26,5 @@ export const Supported_Languages = [
     name: "spanish",
   },
 ];
+
+export const API_KEY = "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";
