@@ -74,6 +74,7 @@ const GptSearchbar = () => {
                 <MovieListSearch item={item} i={i} func={handleClickMovie} />
               );
             })}
+            
         </form>
       </div>
       <div>

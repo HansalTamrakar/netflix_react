@@ -17,15 +17,7 @@ const firebaseConfig = {
   appId: "1:586861069352:web:e2f222c331fc07b967a11d",
   measurementId: "G-1NSLJXXD3P",
 };
-// const firebaseConfig = {
-//   apiKey: "AIzaSyBED8UKuDfwRReflN3rGas2fou1D3U7dbI",
-//   authDomain: "netflix-147df.firebaseapp.com",
-//   projectId: "netflix-147df",
-//   storageBucket: "netflix-147df.appspot.com",
-//   messagingSenderId: "36315369436",
-//   appId: "1:36315369436:web:6bdc084aaf2ef8f54b0919",
-//   measurementId: "G-FSS6SHC3E1",
-// };
+
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
