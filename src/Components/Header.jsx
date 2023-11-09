@@ -45,6 +45,7 @@ const Header = () => {
         navigate("/browse");
       } else {
         dispatch(removeUser());
+        navigate("/")
       }
     });
     //Unsuscribe when un mounts
